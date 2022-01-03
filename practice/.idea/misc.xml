@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="341" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/package.json" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="100" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/roll.js" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="162" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/roll.spec.js" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
